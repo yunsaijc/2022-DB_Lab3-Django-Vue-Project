@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "element-ui": "^2.15.12",
+    "eslint-plugin-html": "^7.1.0",
+    "save-dev": "^0.0.1-security"
+  }
+}

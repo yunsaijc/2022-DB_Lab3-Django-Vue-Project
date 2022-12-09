@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS douban;
+CREATE DATABASE douban;
+GRANT ALL PRIVILEGES ON douban.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
+USE douban;
